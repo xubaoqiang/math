@@ -1,0 +1,1 @@
+import "./scr/test.js";
