@@ -10,7 +10,7 @@
 
 ## npm \$npm install math-extends
 
-## > 导入 \$ import 'MathExtends'
+## > 导入 \$ import 'math-extends'
 
 ## > 创建
 
