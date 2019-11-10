@@ -1,1 +1,1 @@
-import "./scr/test.js";
+import './src/math.js';
