@@ -1,6 +1,6 @@
 {
   "name": "math-extends",
-  "version": "1.0.1",
+  "version": "1.1.0",
   "description": "",
   "main": "math.es6.js",
   "scripts": {
