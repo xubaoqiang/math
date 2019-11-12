@@ -6,7 +6,7 @@
 
 ## @use
 
-## cnd src=\"https\:\/\/github.com\/xubaoqiang\/math\/dev\/math.es5.js\"
+## cnd src=\"https\:\/\/github.com\/xubaoqiang\/math\/math.es5.js\"
 
 ## npm \$ npm install math-extends
 
