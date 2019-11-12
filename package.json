@@ -1,8 +1,8 @@
 {
   "name": "math-extends",
-  "version": "1.0.3",
+  "version": "1.1.0",
   "description": "",
-  "main": "index.js",
+  "main": "math.es6.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "babel src -d dev"
