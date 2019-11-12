@@ -2,7 +2,7 @@
 
 ## @author MR.X
 
-## @versions V1.1.0
+## @versions v1.0.3
 
 ## @use
 
@@ -68,4 +68,4 @@
 
 ### math.div(num1, num2, decimals) return resolve {number}
 
-### 上个版本由于本人第一次推 npm,造成阻断性 bug，望各位见谅 请使用 V1.1.0 版本
+### 上个版本由于本人第一次推 npm,造成阻断性 bug，望各位见谅
