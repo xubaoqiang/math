@@ -70,7 +70,7 @@ class MathExtends {
     sub() {
         arguments.length ? this.calcList = arguments : null;
         let max = this.basicPow(),
-            resolve = 0;
+            resolve = this.calcList[0] || 0;
         this.calcList.forEach(value => resolve -= value * max);
         return resolve / max;
     }

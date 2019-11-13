@@ -97,7 +97,7 @@ var MathExtends = function () {
         value: function sub() {
             arguments.length ? this.calcList = arguments : null;
             var max = this.basicPow(),
-                resolve = 0;
+                resolve = this.calcList[0] || 0;
             this.calcList.forEach(function (value) {
                 return resolve -= value * max;
             });
