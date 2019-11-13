@@ -2,7 +2,7 @@
 
 ###### author BaoQiang.Xu
 
-###### versions v1.1.1
+###### versions v1.1.2
 
 ###### 以下版本已删除
 
