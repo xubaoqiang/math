@@ -6,7 +6,7 @@
 
 ### use
 
-### cnd `<script src=["https://github.com/xubaoqiang/cnd/math.es5.js"][https://github.com/xubaoqiang/cnd/math.es5.js]></script>`
+### cnd `<script src="https://github.com/xubaoqiang/cnd/math.es5.js"></script>`
 
 #### npm
 
