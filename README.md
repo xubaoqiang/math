@@ -2,15 +2,15 @@
 
 ###### author BaoQiang.Xu
 
-###### versions v1.1.3
+###### versions v1.2.0
 
 ###### 以下版本已删除
 
-###### ~~1.0.0~~ ~~1.1.0~~
+###### ~~1.0.0~~ ~~1.1.0~~ ~~1.1.3~~
 
 ### use
 
-### cnd `<script src="https://github.com/xubaoqiang/cnd/math.es5.js"></script>`
+### cnd `请下载 https://github.com/xubaoqiang/cnd/blob/master/math.es5.js`
 
 #### npm
 

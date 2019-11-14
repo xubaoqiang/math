@@ -31,7 +31,7 @@ function _classCallCheck(instance, Constructor) {
  * @class MathExtends
  * @brief 解决js floot类型精度丢失的一款轻量级应用库
  * @author MR.X
- * @version 1.0.0
+ * @version 1.2.0
  * @param {number | string} args...
  */
 
@@ -97,7 +97,7 @@ var MathExtends = function () {
         value: function sub() {
             arguments.length ? this.calcList = arguments : null;
             var max = this.basicPow(),
-                resolve = this.calcList[0] || 0;
+                resolve = this.calcList[0] * max || 0;
             this.calcList.forEach(function (value) {
                 return resolve -= value * max;
             });

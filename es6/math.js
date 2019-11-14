@@ -2,7 +2,7 @@
  * @class MathExtends
  * @brief 解决js floot类型精度丢失的一款轻量级应用库
  * @author MR.X
- * @version 1.0.0
+ * @version 1.2.0
  * @param {number | string} args...
  */
 
@@ -70,7 +70,7 @@ class MathExtends {
     sub() {
         arguments.length ? this.calcList = arguments : null;
         let max = this.basicPow(),
-            resolve = this.calcList[0] || 0;
+            resolve = this.calcList[0] * max || 0;
         this.calcList.forEach(value => resolve -= value * max);
         return resolve / max;
     }
